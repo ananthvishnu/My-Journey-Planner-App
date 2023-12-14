@@ -117,3 +117,4 @@ export class AppComponent {
   fromValue: PlaceSearchResult = { address: '' };
   toValue: PlaceSearchResult = { address: '' };
 }
+
